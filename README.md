@@ -22,4 +22,4 @@ buenas practicas de seguridad web.
 4. Abrir `http://localhost/proyecto-final-seguridad/login.php`
 
 ## Autor
-Jeremy - UCSG
+Jeremy - UCACUE
